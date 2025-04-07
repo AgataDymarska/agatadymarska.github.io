@@ -1,14 +1,26 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>{{ page.title }}</title>
-  </head>
-  <body>
-    <nav>
-      <a href="/">Home</a> | 
-      <a href="/bio">Bio</a> | 
-      <a href="/research">Research</a>
-    </nav>
-    {{ content }} <!-- Your page content injects here -->
-  </body>
+<head>
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+  <div class="container">
+    <!-- Left Sidebar -->
+    <div class="sidebar">
+      <nav>
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/bio">Bio</a></li>
+          <li><a href="/research">Research</a></li>
+        </ul>
+      </nav>
+    </div>
+
+    <!-- Main Content -->
+    <div class="content">
+      {{ content }}  <!-- Your page content injects here -->
+    </div>
+  </div>
+</body>
 </html>
