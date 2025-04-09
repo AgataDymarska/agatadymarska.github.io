@@ -16,5 +16,3 @@ Dymarska, A., Connell, L., & Banks, B. (2023b). Weaker than you might imagine: D
 
 Dymarska, A., Connell, L., & Banks, B. (2022). Linguistic bootstrapping allows more real-world object concepts to be held in mind. *Collabra: Psychology, 8* (1): 40171. [doi:10.1525/collabra.40171](https://doi.org/10.1525/collabra.40171)
 
-Dymarska, A., Connell, L., & Banks, B. (2019). Working memory for object concepts relies on both linguistic and simulation information. In *Proceedings of the 41st Annual Conference of the Cognitive Science Society*, (pp. 1683-1689)
-
