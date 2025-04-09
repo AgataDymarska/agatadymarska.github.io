@@ -4,7 +4,7 @@ title: "Research"
 ---
 ## Publications
 
-Dymarska, A. (2025). Frequency Over Semantic Richness: word recognition in non-native English speakers. *Bilingualism: Language & Cognition*. [doi:10.1017/S1366728925000239] (https://doi.org/10.1017/S1366728925000239)
+Dymarska, A. (2025). Frequency Over Semantic Richness: word recognition in non-native English speakers. *Bilingualism: Language & Cognition*. [doi:10.1017/S1366728925000239](https://doi.org/10.1017/S1366728925000239)
 
 Dymarska A., & Connell, L. (2025). Sensorimotor Effects in Surprise Word Memory – a Registered Report. *Cortex*. [https://doi.org/10.1016/j.cortex.2025.03.010]
 
