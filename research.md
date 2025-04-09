@@ -11,4 +11,4 @@ Dymarska, A., Connell, L., & Banks, B. (2023a). More is Not Necessarily Better â
 Dymarska, A., Connell, L., & Banks, B. (2023b). Weaker than you might imagine: Determining imageability effects on word recognition. Journal of Language and Memory, 129: 104398. https://doi.org/10.1016/j.jml.2022.104398
 Dymarska, A., Connell, L., & Banks, B. (2022). Linguistic bootstrapping allows more real-world object concepts to be held in mind. Collabra: Psychology, 8 (1): 40171. https://doi.org/10.1525/collabra.40171
 Dymarska, A., Connell, L., & Banks, B. (2019). Working memory for object concepts relies on both linguistic and simulation information. In Proceedings of the 41st Annual Conference of the Cognitive Science Society, (pp. 1683-1689)
-![image](https://github.com/user-attachments/assets/a84a2124-cd2a-44f2-9a5e-c2f0248a1120)
+
