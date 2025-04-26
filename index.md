@@ -10,6 +10,13 @@ title: "Agata Dymarska, PhD"  # This will set the browser tab title
   </div>
 </div>
 
+<div class="contact-item">
+  <i class="fas fa-envelope"></i>
+  <span class="email">agata.dymarska@amu.edu.pl</span>
+  <p><a href="https://pola.amu.edu.pl" target="_blank">Lab</a></p>
+</div>
+
+
 Welcome to my website
 
 Here, I'd like to share my research ideas and findings.
