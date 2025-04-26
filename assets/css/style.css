@@ -5,6 +5,13 @@
   background-color: #ffffff; /* white background */
 }
 
+.content {
+  flex: 1;
+  padding: 30px;
+  padding-left: 50px; /* ← Adds fixed space between sidebar and content */
+  margin-left: 0;     /* ← Ensures no overlap */
+}
+
 /* ===== Sidebar ===== */
 .sidebar {
   width: 80px;
