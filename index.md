@@ -6,8 +6,7 @@ title: "Agata Dymarska, PhD"  # This will set the browser tab title
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img src="/assets/css/photo_Agata.png" alt="Agata Dymarska" style="width: 178px; height: 165px; border-radius: 50%; object-fit: cover; border: 3px solid #yourcolor;">
   <div>
-    <!-- Your existing intro text here -->
-  </div>
+   
 </div>
 
 <div class="contact-item">
