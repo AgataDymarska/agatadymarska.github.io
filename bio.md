@@ -3,4 +3,5 @@ layout: default
 title: "Bio"
 ---
 ## About Me
-Here's my background and interests.
+
+[View my CV (PDF)](Academic CV - A.Dymarska - 26.04.25.pdf){:target="_blank" rel="noopener noreferrer"}
