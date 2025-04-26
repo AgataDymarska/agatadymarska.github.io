@@ -32,6 +32,10 @@
   margin: 0 auto 20px; /* Center and add space below */
 }
 
+.email::before {
+  content: attr(data-user) "@" attr(data-domain);
+}
+
 /* Sidebar Navigation */
 nav ul {
   list-style: none;
@@ -44,17 +48,16 @@ nav li {
 }
 
 nav a {
-  text-decoration: none;
-  color: #333;
-  font-weight: 500; /* Slightly bolder */
-  padding: 5px 10px;
-  border-radius: 4px;
-  transition: all 0.3s ease;
+  color: white !important;           /* White text */
+  background-color: #6200ea;         /* Purple background */
+  padding: 8px 12px;                 /* Match your hover padding */
+  border-radius: 4px;                /* Rounded corners */
+  display: block;                    /* Full-width click area */
+  margin: 5px 0;                     /* Space between tabs */
+  transition: opacity 0.2s;          /* Smooth hover effect */
 }
 
 nav a:hover {
-  color: #ffffff; /* White text on hover */
-  background-color: #6200ea; /* Purple background on hover */
+  opacity: 0.9;                      /* Slight fade on hover */
 }
-
 /* =
