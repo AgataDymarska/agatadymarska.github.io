@@ -1,34 +1,53 @@
+/* ===== Base Styles ===== */
 .container {
   display: flex;
   min-height: 100vh;
+  background-color: #fafafa; /* Soft background */
 }
 
+/* ===== Sidebar ===== */
 .sidebar {
   width: 200px;
-  background: #f0f0f0;
+  background: #ffffff; /* White sidebar */
   padding: 20px;
-  border-right: 1px solid #ddd;
+  border-right: 1px solid #e0e0e0; /* Lighter border */
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.05); /* Subtle shadow */
+  text-align: center; /* Center-align sidebar content */
 }
 
-.content {
-  flex: 1;
-  padding: 20px;
+/* Profile Picture */
+.profile-pic {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #6200ea; /* Purple accent */
+  margin: 0 auto 20px; /* Center and add space below */
 }
 
+/* Sidebar Navigation */
 nav ul {
   list-style: none;
   padding: 0;
+  margin-top: 20px;
 }
 
 nav li {
-  margin: 10px 0;
+  margin: 15px 0; /* More spacing between tabs */
 }
 
 nav a {
   text-decoration: none;
   color: #333;
+  font-weight: 500; /* Slightly bolder */
+  padding: 5px 10px;
+  border-radius: 4px;
+  transition: all 0.3s ease;
 }
 
 nav a:hover {
-  color: #6200ea;
+  color: #ffffff; /* White text on hover */
+  background-color: #6200ea; /* Purple background on hover */
 }
+
+/* =
