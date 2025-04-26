@@ -61,3 +61,5 @@ nav a:hover {
   opacity: 0.9;                      /* Slight fade on hover */
 }
 /* =
+
+.archive__subtitle { display: none; }
