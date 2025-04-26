@@ -2,13 +2,13 @@
 .container {
   display: flex;
   min-height: 100vh;
-  background-color: #fafafa; /* Soft background */
+  background-color: #ffffff; /* white background */
 }
 
 /* ===== Sidebar ===== */
 .sidebar {
   width: 80px;
-  background: #ffffff; /* White sidebar */
+  background: #f5f5f5; /* colour of sidebar */
   padding: 20px;
   border-right: 1px solid #e0e0e0; /* Lighter border */
   box-shadow: 2px 0 5px rgba(0, 0, 0, 0.05); /* Subtle shadow */
