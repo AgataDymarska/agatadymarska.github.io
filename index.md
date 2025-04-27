@@ -14,6 +14,7 @@ title: "Agata Dymarska, PhD"  # This will set the browser tab title
   <span class="email" data-user="agata.dymarska" data-domain="amu.edu.pl"></span>
   <p><a href="https://pola.amu.edu.pl" target="_blank">Psychophysiology of Language and Affect Laboratory</a></p>
 </div>
+</div>
 
 
 Welcome to my website
