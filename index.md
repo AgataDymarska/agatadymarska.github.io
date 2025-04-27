@@ -29,10 +29,10 @@ title: "Agata Dymarska, PhD"  # This will set the browser tab title
 <p>April was a great month for publications!</p>
 <p>I'm excited to share three new open-access papers.</p>
 
-<p><b>[1. Frequency over semantic richness: word recognition in non-native English speakers](https://doi.org10.1017/S1366728925000239)</b></p>
+<p><b> <a href="https://doi.org10.1017/S1366728925000239" target=_blank">1. Frequency over semantic richness: word recognition in non-native English speakers</a></b></p>
 
 <p>I conducted a large-scale comparison of word knowledge in native and non-native English speakers. The study, published in Bilingualism: Language and Cognition, reveals key differences in sensorimotor and lexical contributions to language processing. 
-In this task (data from <a href="https://doi.org/10.1177/0267658320934" target="_blank">Brysbaert et al. (2021)</a> and [Mandera et al. (2020)](https://doi.org/10.3758/s13428-019-01272-8)), participants were asked to indicate whether they know the meaning of a word in a paradigm which resembled a lexical decision task.</p>
+In this task (data from <a href="https://doi.org/10.1177/0267658320934" target="_blank">Brysbaert et al. (2021)</a> and <a href="https://doi.org/10.3758/s13428-019-01272-8" target="_blank">Mandera et al. (2020)</a></p>
 
 <p>Non-native speakers relied more on lexical characteristics and familiarity with the word form when responding to words, as evidenced by very strong effects of word frequency on speed and accuracy of their responses. On the other hand, native speakers relied more on deep semantic processing, as found in previous word recognition literature: the stronger the semantic information associated with a word, the easier and faster it was to recognise it as a known English word.</p>
 
