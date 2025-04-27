@@ -18,8 +18,9 @@
   color: revert;
 }
 
-p {
-  margin-bottom: 2em; /* 2x font size spacing */
+.container p, 
+.content p {
+  margin-bottom: 2em;
 }
 /* ===== Sidebar ===== */
 .sidebar {
