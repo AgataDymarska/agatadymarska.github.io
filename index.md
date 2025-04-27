@@ -43,6 +43,10 @@ In this task (data from <a href="https://doi.org/10.1177/0267658320934" target="
 <p>Writing this paper was a lot of fun (even though it was also hard work), since it was my first paper on L2 (and my first paper outside of the lab where I "grew up" as a scientist). I'm looking forward to another deep dive into semantic representations in L2 when writing my next paper on emotional word communication in EEG hyperscanning (stay tuned!). 
 </p>
 
+<h2><p><b> <a href="https://doi.org/10.1016/j.cognition.2025.106127" target="_blank">2. Free word association is driven by local response chaining of linguistic and sensorimotor relationships</a></b></p></h2>
+
+
+<h2><p><b> <a href="https://doi.org/10.1016/j.cortex.2025.03.010" target="_blank">3. Sensorimotor effects in surprise word memory – A registered report</a></b></p></h2>
 {% comment %}
 2. Word Associations Study
 In a paper with Professor Louise Connell (Maynooth University) published in Cognition, we explored what drives activation in a word association task.
