@@ -24,12 +24,12 @@ title: "Agata Dymarska, PhD"  # This will set the browser tab title
 
 <p>My work explores how language, perception, and memory interact in the human mind. Specifically, I investigate how linguistic and sensorimotor experiences shape how we understand, remember, and relate to the world.</p>
 
-<p><b>April Publications</b></p>
+<h1><p><b>April Publications</b></p></h1>
 
 <p>April was a great month for publications!</p>
 <p>I'm excited to share three new open-access papers.</p>
 
-<p><b> <a href="https://doi.org/10.1017/S1366728925000239" target="_blank">1. Frequency over semantic richness: word recognition in non-native English speakers</a></b></p>
+<h2><p><b> <a href="https://doi.org/10.1017/S1366728925000239" target="_blank">1. Frequency over semantic richness: word recognition in non-native English speakers</a></b></p></h2>
 
 <p>I conducted a large-scale comparison of word knowledge in native and non-native English speakers. The study, published in Bilingualism: Language and Cognition, reveals key differences in sensorimotor and lexical contributions to language processing. 
 In this task (data from <a href="https://doi.org/10.1177/0267658320934" target="_blank">Brysbaert et al. (2021)</a> and <a href="https://doi.org/10.3758/s13428-019-01272-8" target="_blank">Mandera et al. (2020)</a></p>
