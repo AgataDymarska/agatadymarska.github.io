@@ -29,10 +29,10 @@ My work explores how language, perception, and memory interact in the human mind
 April was a great month for publications!
 I'm excited to share three new open-access papers.
 
-**[1.Frequency over semantic richness: word recognition in non-native English speakers](doi:10.1017/S1366728925000239)**
+**[1. Frequency over semantic richness: word recognition in non-native English speakers](https://doi.org10.1017/S1366728925000239)**
 
 I conducted a large-scale comparison of word knowledge in native and non-native English speakers. The study, published in Bilingualism: Language and Cognition, reveals key differences in sensorimotor and lexical contributions to language processing. 
-In this task (data from [Brysbaert et al. (2021)](https://doi.org/10.1177/0267658320934) and [Mandera et al. (2020)(https://doi.org/10.3758/s13428-019-01272-8))), participants were asked to indicate whether they know the meaning of a word in a paradigm which resembled a lexical decision task.
+In this task (data from [Brysbaert et al. (2021)](https://doi.org/10.1177/0267658320934) and [Mandera et al. (2020)](https://doi.org/10.3758/s13428-019-01272-8)), participants were asked to indicate whether they know the meaning of a word in a paradigm which resembled a lexical decision task.
 
 Non-native speakers relied more on lexical characteristics and familiarity with the word form when responding to words, as evidenced by very strong effects of word frequency on speed and accuracy of their responses. On the other hand, native speakers relied more on deep semantic processing, as found in previous word recognition literature: the stronger the semantic information associated with a word, the easier and faster it was to recognise it as a known English word.
 
