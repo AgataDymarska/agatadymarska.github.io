@@ -17,6 +17,10 @@
   font-weight: revert;
   color: revert;
 }
+
+p {
+  margin-bottom: 1.5em; /* 1.5x font size spacing */
+}
 /* ===== Sidebar ===== */
 .sidebar {
   width: 120px;
