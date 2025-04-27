@@ -12,10 +12,11 @@ title: "Agata Dymarska, PhD"  # This will set the browser tab title
 <div class="contact-item">
   <i class="fas fa-envelope"></i>
   <span class="email" data-user="agata.dymarska" data-domain="amu.edu.pl"></span>
+   </div> 
   <p><a href="https://pola.amu.edu.pl" target="_blank">Psychophysiology of Language and Affect Laboratory</a></p>
 </div>
 </div>
-
+<div style="margin-top: 30px; line-height: 1.6;"> 
 
 Welcome to my website
 
