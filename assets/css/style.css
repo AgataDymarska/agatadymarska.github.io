@@ -11,7 +11,12 @@
   padding-left: 50px; /* ← Adds fixed space between sidebar and content */
   margin-left: 0;     /* ← Ensures no overlap */
 }
-
+.content :is(h1, h2, h3, p, a, strong) {
+  all: initial; /* Nuclear option to reset */
+  display: revert;
+  font-weight: revert;
+  color: revert;
+}
 /* ===== Sidebar ===== */
 .sidebar {
   width: 120px;
